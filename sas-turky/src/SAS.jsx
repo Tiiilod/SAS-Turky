@@ -1,6 +1,5 @@
 import fototurky  from"./assets/foto.jpg"
 
-
 export default function App() {
     return (
       <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-start p-8">
